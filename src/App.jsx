@@ -56,12 +56,6 @@ const { user, pass, captcha } = Form;
     })
     
   }
-  
- 
-
-
-
-
   return (
     
     <div className="parent">
